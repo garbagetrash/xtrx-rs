@@ -351,13 +351,12 @@ dependencies = [
 name = "xtrx-rs"
 version = "0.1.0"
 dependencies = [
- "xtrx-sys 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "xtrx-sys 0.1.0",
 ]
 
 [[package]]
 name = "xtrx-sys"
 version = "0.1.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "bindgen 0.51.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
@@ -409,4 +408,3 @@ dependencies = [
 "checksum winapi-util 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)" = "7168bab6e1daee33b4557efd0e95d5ca70a03706d39fa5f3fe7a236f584b03c9"
 "checksum winapi-x86_64-pc-windows-gnu 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)" = "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f"
 "checksum wincolor 1.0.2 (registry+https://github.com/rust-lang/crates.io-index)" = "96f5016b18804d24db43cebf3c77269e7569b8954a8464501c216cc5e070eaa9"
-"checksum xtrx-sys 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "faab5040569485ad123ede9a671122ab5f73dedc5e88d900e8c551a2063c067a"
